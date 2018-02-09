@@ -21,3 +21,4 @@ npm init -y && touch index.html && touch index.js
 }
 ```
 >> 当然你也可以指定打包路径
+## 参考文档 https://medium.freecodecamp.org/all-you-need-to-know-about-parcel-dbe151b70082
