@@ -1,0 +1,25 @@
+{
+  "name": "easy-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liziwangrui/easy-parcel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liziwangrui/easy-parcel/issues"
+  },
+  "homepage": "https://github.com/liziwangrui/easy-parcel#readme"
+}
