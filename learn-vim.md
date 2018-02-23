@@ -1,4 +1,4 @@
-## start you show
+## show time
 ##  Basics of vim modes 常用的指令
 ### i进入到insert模式
 >> 编辑文件以后保存并退出的指令
